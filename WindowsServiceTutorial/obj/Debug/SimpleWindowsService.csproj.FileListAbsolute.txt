@@ -1,0 +1,9 @@
+C:\Users\blazz\source\repos\SimpleWindowsService\WindowsServiceTutorial\bin\Debug\WindowsServiceTutorial.exe.config
+C:\Users\blazz\source\repos\SimpleWindowsService\WindowsServiceTutorial\bin\Debug\WindowsServiceTutorial.exe
+C:\Users\blazz\source\repos\SimpleWindowsService\WindowsServiceTutorial\bin\Debug\WindowsServiceTutorial.pdb
+C:\Users\blazz\source\repos\SimpleWindowsService\WindowsServiceTutorial\obj\Debug\SimpleWindowsService.csproj.AssemblyReference.cache
+C:\Users\blazz\source\repos\SimpleWindowsService\WindowsServiceTutorial\obj\Debug\WindowsServiceTutorial.ProjectInstaller.resources
+C:\Users\blazz\source\repos\SimpleWindowsService\WindowsServiceTutorial\obj\Debug\SimpleWindowsService.csproj.GenerateResource.cache
+C:\Users\blazz\source\repos\SimpleWindowsService\WindowsServiceTutorial\obj\Debug\SimpleWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\blazz\source\repos\SimpleWindowsService\WindowsServiceTutorial\obj\Debug\WindowsServiceTutorial.exe
+C:\Users\blazz\source\repos\SimpleWindowsService\WindowsServiceTutorial\obj\Debug\WindowsServiceTutorial.pdb
